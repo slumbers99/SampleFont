@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+  <string name="app_name">SampleFont</string>
+  <string name="action_settings">Settings</string>
+  <string name="hello_world">Hello world!</string>
+  
+  
+  <string name="font_name_droid_sans_fallback_full">DroidSansFallbackFull.ttf</string>
+  <string name="font_name_droid_sans_japanese">DroidSansJapanese.ttf</string>
+  <string name="font_name_roboto_regular">Roboto-Regular.ttf</string>
+
+  <string name="sample_sentence">あのイーハトーヴォの\nすきとおった風、\n夏でも底に冷たさをもつ青いそら、\nうつくしい森で飾られたモリーオ市、\n郊外のぎらぎらひかる草の波。\n\nABCDRFGHIJKL\nabcdrfghijkl\n1234567890\n\n編集</string>
+
+</resources>
